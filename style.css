@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.table-box{
+  display: table;
+  width: 40%;
+  margin: 10px auto;
+  font-family: sans-serif;
+  background: transparent;
+  padding: 12px 10px;
+  color: #555;
+  font-size: 13px;
+  box-shadow: 0 1px 4px 0 rgba(0,0,50,0.3);
+}
